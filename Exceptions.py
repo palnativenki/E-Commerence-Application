@@ -1,0 +1,2 @@
+class StockNotAvailableException(Exception):
+    pass
